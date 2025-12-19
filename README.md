@@ -1,60 +1,71 @@
-<h2 align="center">🚀 My Web Productivity Suite</h2>
-<p align="center">A collection of high-performance tools built for the web to manage time, studies, and goals.</p>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Fully_Free-brightgreen?style=flat-square" alt="Free">
-  <img src="https://img.shields.io/badge/Ads-None-blue?style=flat-square" alt="No Ads">
-  <img src="https://img.shields.io/badge/Privacy-Local_Storage-orange?style=flat-square" alt="Privacy">
-  <br><br>
 
-<table align="center">
+<h1>🚀 Tamim's Productivity Ecosystem</h1>
+<p align="center">
+  <b>100% Free • Ad-Free • Privacy-First Web Utilities</b><br>
+  Built with performance and aesthetics in mind to help you stay organized and focused.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Privacy-Verified-brightgreen?style=for-the-badge&logo=ghostery" alt="Privacy">
+  <img src="https://img.shields.io/badge/Ads-None-blue?style=for-the-badge&logo=adblock-plus" alt="No Ads">
+  <img src="https://img.shields.io/badge/Host-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare" alt="Cloudflare">
+</p>
+
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="350px">
-      <h3>📅 Deadline Dashboard</h3>
-      <p><i>Prioritize | Execute | Finish</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-DEADLINE_DASHBOARD-FF4B2B?style=for-the-badge" alt="Deadline"><br><br>
+      <b>Prioritize | Execute | Finish</b><br>
+      The flagship goal tracker. Features color-coded urgency, custom typography, and JSON data management.<br><br>
       <a href="https://deadlinetrackerbytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-FF4B2B?style=for-the-badge&logo=target&logoColor=white" alt="Deadline Dashboard">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
-    <td align="center" width="350px">
-      <h3>📚 Study Tracker</h3>
-      <p><i>Master Your Syllabus</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-STUDY_TRACKER-3B82F6?style=for-the-badge" alt="Study"><br><br>
+      <b>Master Your Syllabus</b><br>
+      Organize complex subjects into chapters and topics with real-time progress bars and drag-and-drop UI.<br><br>
       <a href="https://studytrackerbytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-3B82F6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Study Tracker">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
   </tr>
   
   <tr>
-    <td align="center" width="350px">
-      <h3>🍅 Focus Flow</h3>
-      <p><i>Modern Pomodoro</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-FOCUS_FLOW-FF2E63?style=for-the-badge" alt="Focus"><br><br>
+      <b>Modern Pomodoro</b><br>
+      A stunning timer with fluid physics and visual "breathing" modes designed for deep work sessions.<br><br>
       <a href="https://pomodorobytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-FF2E63?style=for-the-badge&logo=clockify&logoColor=white" alt="Focus Flow">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
-    <td align="center" width="350px">
-      <h3>⏱️ Advanced Stopwatch</h3>
-      <p><i>Precision Timing</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-ADVANCED_STOPWATCH-00D2FF?style=for-the-badge" alt="Stopwatch"><br><br>
+      <b>Precision Timing</b><br>
+      High-accuracy timing tool with lap tracking and customizable animated gradient backgrounds.<br><br>
       <a href="https://stopwatchbytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-00D2FF?style=for-the-badge&logo=speedtest&logoColor=white" alt="Stopwatch">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="350px">
-      <h3>⏳ Time Calculator</h3>
-      <p><i>Analyze Your Day</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-TIME_CALCULATOR-9333EA?style=for-the-badge" alt="Time"><br><br>
+      <b>Analyze Your Day</b><br>
+      Calculate exactly how much time has passed or is remaining for your important milestones.<br><br>
       <a href="https://timetrackerbytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-9333EA?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Time Tracker">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
-    <td align="center" width="350px">
-      <h3>🕒 Digital Clock</h3>
-      <p><i>Stay On Schedule</i></p>
+    <td align="center" width="380px" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/-DIGITAL_CLOCK-10B981?style=for-the-badge" alt="Clock"><br><br>
+      <b>Stay On Schedule</b><br>
+      A minimalist, fully customizable full-screen clock with Google Fonts integration.<br><br>
       <a href="https://clockbytamim.pages.dev/">
-        <img src="https://img.shields.io/badge/Visit_Website-10B981?style=for-the-badge&logo=watch&logoColor=white" alt="Clock">
+        <img src="https://img.shields.io/badge/Visit_Website-white?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Link">
       </a>
     </td>
   </tr>
@@ -64,41 +75,26 @@
 
 ---
 
-### 📖 Website Descriptions
-
-| Website | Detailed Features |
-| :--- | :--- |
-| **📅 Deadline Dashboard** | **The ultimate goal tracker.** View multiple deadlines in a single dashboard. Features color-coded urgency (Urgent/Soon/On-Track), customizable fonts, and JSON backup support. |
-| **📚 Study Progress Tracker** | **Master your learning.** Organize complex syllabuses into Subjects, Chapters, and Topics. Track completion with weighted progress bars and drag-and-drop reordering. |
-| **🍅 Focus Flow** | **Aesthetic Pomodoro.** Boost focus with a modern timer featuring fluid physics, "Breathing" and "Ocean" visual styles, and keyboard shortcuts (Space/Tab). |
-| **⏱️ Advanced Stopwatch** | **Precision at your fingertips.** A high-accuracy stopwatch with lap tracking, customizable animated gradient backgrounds, and fully responsive typography. |
-| **⏳ Time Calculator** | **Time Analysis.** Instantly calculate exactly how much time has passed since a date or how much time is remaining until a future milestone. |
-| **🕒 Digital Clock** | **Your Workspace Companion.** A highly customizable full-screen clock. Change fonts (Google Fonts), colors, and sizes to match your desktop aesthetic perfectly. |
-
-### 🛡️ No Ads. No Tracking. Just Productivity.
-All of these websites are built with a **User-First** philosophy:
-- 🚫 **No Ads:** Completely clean interface with zero distractions.
-- 💸 **100% Free:** No "Premium" walls or hidden subscription fees.
-- 🔒 **Privacy Focused:** No sign-ups required. Your data stays in your browser's local storage.
-- ⚡ **Lightweight:** Fast loading and optimized for both desktop and mobile.
-
----
-**Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Cloudflare Pages`
-</div>
-
----
-
 ### 🛡️ Privacy & Data Security
 
-I believe that productivity tools should never come at the cost of your privacy. Here is how these websites handle your data:
-
-* **Zero Trackers:** These websites do not use Google Analytics, Facebook Pixels, or any third-party tracking scripts. You can verify this using [Blacklight](https://themarkup.org/blacklight) or your browser's Inspect Tool.
-* **No Databases:** I do not own a server that stores your information. Your data (like deadlines or study plans) never leaves your computer.
-* **Local Storage Technology:** All your settings and progress are saved in your browser's **Local Storage**. 
-    * *Pros:* Your data is private and loads instantly.
-    * *Cons:* If you clear your browser cache or change devices, your data will be reset (which is why I included **Export/Import** features on the more complex websites).
-* **No Cookies:** These websites do not use cookies to identify you or follow you across the web.
-
-![Privacy Verified](https://img.shields.io/badge/Privacy-Verified_&_Tracker_Free-success?style=for-the-badge&logo=ghostery&logoColor=white)
+These websites use **Local Storage Technology**. 
+* **Your data never leaves your computer.** There are no databases, no sign-ups, and no tracking cookies.
+* **100% Ad-Free:** Zero distractions. No pop-ups. Just productivity.
+* **Open & Honest:** You can verify the clean code via browser developer tools.
 
 ---
+
+### 👨‍💻 About Me
+I'm a developer focused on building lightweight, user-centric web applications. I created this suite because I wanted tools that were fast, free, and didn't track my data.
+
+**Connect with me:**
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME_HERE">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+</div>
