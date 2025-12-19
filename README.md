@@ -2,6 +2,10 @@
 <p align="center">A collection of high-performance tools built for the web to manage time, studies, and goals.</p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Status-Fully_Free-brightgreen?style=flat-square" alt="Free">
+  <img src="https://img.shields.io/badge/Ads-None-blue?style=flat-square" alt="No Ads">
+  <img src="https://img.shields.io/badge/Privacy-Local_Storage-orange?style=flat-square" alt="Privacy">
+  <br><br>
 
 <table align="center">
   <tr>
@@ -11,7 +15,6 @@
       <a href="https://deadlinetrackerbytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-FF4B2B?style=for-the-badge&logo=target&logoColor=white" alt="Deadline Dashboard">
       </a>
-      <br><sub>Ultimate countdown & goal management</sub>
     </td>
     <td align="center" width="350px">
       <h3>📚 Study Tracker</h3>
@@ -19,7 +22,6 @@
       <a href="https://studytrackerbytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-3B82F6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Study Tracker">
       </a>
-      <br><sub>Visual progress tracking for students</sub>
     </td>
   </tr>
   
@@ -30,7 +32,6 @@
       <a href="https://pomodorobytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-FF2E63?style=for-the-badge&logo=clockify&logoColor=white" alt="Focus Flow">
       </a>
-      <br><sub>Aesthetic timer with fluid physics</sub>
     </td>
     <td align="center" width="350px">
       <h3>⏱️ Advanced Stopwatch</h3>
@@ -38,7 +39,6 @@
       <a href="https://stopwatchbytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-00D2FF?style=for-the-badge&logo=speedtest&logoColor=white" alt="Stopwatch">
       </a>
-      <br><sub>High-accuracy timing & lap system</sub>
     </td>
   </tr>
 
@@ -49,7 +49,6 @@
       <a href="https://timetrackerbytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-9333EA?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Time Tracker">
       </a>
-      <br><sub>Calculates time passed vs. time left</sub>
     </td>
     <td align="center" width="350px">
       <h3>🕒 Digital Clock</h3>
@@ -57,22 +56,32 @@
       <a href="https://clockbytamim.pages.dev/">
         <img src="https://img.shields.io/badge/Visit_Website-10B981?style=for-the-badge&logo=watch&logoColor=white" alt="Clock">
       </a>
-      <br><sub>Fully customizable visual interface</sub>
     </td>
   </tr>
 </table>
 
-<br />
+<br>
 
 ---
 
-### 🌟 Spotlight: Deadline Dashboard
-The **Deadline Dashboard** is designed to eliminate procrastination by providing a clear visual hierarchy of your tasks:
-* **Dynamic Status:** Automatically labels tasks as *Urgent*, *Soon*, or *On Track*.
-* **Custom Typography:** Choose fonts and colors that match your workspace vibe.
-* **Data Privacy:** All data is saved locally in your browser—no login required.
-* **Backup Ready:** Export and Import your trackers anytime via JSON.
+### 📖 Website Descriptions
+
+| Website | Detailed Features |
+| :--- | :--- |
+| **📅 Deadline Dashboard** | **The ultimate goal tracker.** View multiple deadlines in a single dashboard. Features color-coded urgency (Urgent/Soon/On-Track), customizable fonts, and JSON backup support. |
+| **📚 Study Progress Tracker** | **Master your learning.** Organize complex syllabuses into Subjects, Chapters, and Topics. Track completion with weighted progress bars and drag-and-drop reordering. |
+| **🍅 Focus Flow** | **Aesthetic Pomodoro.** Boost focus with a modern timer featuring fluid physics, "Breathing" and "Ocean" visual styles, and keyboard shortcuts (Space/Tab). |
+| **⏱️ Advanced Stopwatch** | **Precision at your fingertips.** A high-accuracy stopwatch with lap tracking, customizable animated gradient backgrounds, and fully responsive typography. |
+| **⏳ Time Calculator** | **Time Analysis.** Instantly calculate exactly how much time has passed since a date or how much time is remaining until a future milestone. |
+| **🕒 Digital Clock** | **Your Workspace Companion.** A highly customizable full-screen clock. Change fonts (Google Fonts), colors, and sizes to match your desktop aesthetic perfectly. |
+
+### 🛡️ No Ads. No Tracking. Just Productivity.
+All of these websites are built with a **User-First** philosophy:
+- 🚫 **No Ads:** Completely clean interface with zero distractions.
+- 💸 **100% Free:** No "Premium" walls or hidden subscription fees.
+- 🔒 **Privacy Focused:** No sign-ups required. Your data stays in your browser's local storage.
+- ⚡ **Lightweight:** Fast loading and optimized for both desktop and mobile.
 
 ---
-**Build Stack:** `HTML5` • `CSS3` • `JavaScript` • `Cloudflare Pages`
+**Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Cloudflare Pages`
 </div>
