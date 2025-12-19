@@ -85,3 +85,20 @@ All of these websites are built with a **User-First** philosophy:
 ---
 **Tech Stack:** `HTML5` • `CSS3` • `JavaScript` • `Cloudflare Pages`
 </div>
+
+---
+
+### 🛡️ Privacy & Data Security
+
+I believe that productivity tools should never come at the cost of your privacy. Here is how these websites handle your data:
+
+* **Zero Trackers:** These websites do not use Google Analytics, Facebook Pixels, or any third-party tracking scripts. You can verify this using [Blacklight](https://themarkup.org/blacklight) or your browser's Inspect Tool.
+* **No Databases:** I do not own a server that stores your information. Your data (like deadlines or study plans) never leaves your computer.
+* **Local Storage Technology:** All your settings and progress are saved in your browser's **Local Storage**. 
+    * *Pros:* Your data is private and loads instantly.
+    * *Cons:* If you clear your browser cache or change devices, your data will be reset (which is why I included **Export/Import** features on the more complex websites).
+* **No Cookies:** These websites do not use cookies to identify you or follow you across the web.
+
+![Privacy Verified](https://img.shields.io/badge/Privacy-Verified_&_Tracker_Free-success?style=for-the-badge&logo=ghostery&logoColor=white)
+
+---
